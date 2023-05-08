@@ -1,0 +1,6 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@rndi/makedropdown": "^1.3.1"
+  }
+}
