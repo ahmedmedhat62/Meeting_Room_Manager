@@ -85,9 +85,9 @@ submit.addEventListener("click", function () {
   console.log(form);
 });
 clear.addEventListener("click", function () {
-  drop_down_list1.value = drop_down_list1[0];
-  drop_down_list2.value = drop_down_list1[0];
-  drop_down_list3.value = drop_down_list1[0];
+  drop_down_list1.value = "A";
+  drop_down_list2.value = "3";
+  drop_down_list3.value = "1";
   comment.value = "";
   date.value = currentDate;
 });
